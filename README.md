@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME: Nicolás Gabriel Álvarez Aguirre
+GITHUB_USER: NicolasAlvarez25
+EMAIL: ngalvarez-2022b@corhuila.edu.co
+CODE_ORGANIZATION: code-corhuila 
+-->
 ## Hi there 👋
 
 <!--
